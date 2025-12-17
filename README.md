@@ -33,8 +33,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ### สำหรับการชำระเงินผ่าน PayPal (Sandbox Mode)
 จำเป็นต้องใช้บัญชี PayPal Sandbox เพื่อทดสอบการชำระเงิน
-- **อีเมล Sandbox:** `sb-djrnr45255579@personal.example.com`
-- **รหัสผ่าน:** `b>R8Do,?`
+- **อีเมล Sandbox:** `sb-swq8q48207763@personal.example.com`
+- **รหัสผ่าน:** `rX)fjT]1`
 
 ## Learn More
 
